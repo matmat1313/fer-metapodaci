@@ -2,7 +2,7 @@
   "name": "Reward token",
   "symbol": "RT",
   "description": "Fer internal token.",
-  "image": "https://drive.google.com/file/d/1IiuD9EL1_YR340dHLJz1JZXiVI_DXogO/view?usp=sharing",
+  "image": "https://matmat1313.github.io/fer-metapodaci/assets/rewardtoken4.png",
   "external_url": "https://www.fer.unizg.hr/",
   "attributes": [
     { "trait_type": "Category", "value": "Utility" },
@@ -11,7 +11,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://drive.google.com/file/d/1IiuD9EL1_YR340dHLJz1JZXiVI_DXogO/view?usp=sharing",
+        "uri": "https://matmat1313.github.io/fer-metapodaci/assets/rewardtoken4.png",
         "type": "image/png"
       }
     ],
