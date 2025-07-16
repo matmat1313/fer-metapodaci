@@ -1,0 +1,20 @@
+{
+  "name": "Reward token",
+  "symbol": "RT",
+  "description": "Fer internal token.",
+  "image": "https://drive.google.com/file/d/1IiuD9EL1_YR340dHLJz1JZXiVI_DXogO/view?usp=sharing",
+  "external_url": "https://www.fer.unizg.hr/",
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://drive.google.com/file/d/1IiuD9EL1_YR340dHLJz1JZXiVI_DXogO/view?usp=sharing",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
